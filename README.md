@@ -9,4 +9,4 @@ Here I practice:
 
 Step by step learning.
 Updated from Mac Studio.
-
+Stage practice - second round.
