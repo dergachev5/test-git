@@ -8,4 +8,5 @@ Here I practice:
 - editing files from terminal
 
 Step by step learning.
+Updated from Mac Studio.
 
